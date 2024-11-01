@@ -1,4 +1,4 @@
-### 👋 Hi there! I'm Diogo Castanho
+### 👋 Olá! Eu sou o Diogo Castanho
 
 Sou um estudante e desenvolvedor em formação, atualmente no 12º ano em Gestão e Programação de Sistemas Informáticos.
 
