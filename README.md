@@ -4,7 +4,7 @@ Sou um estudante e desenvolvedor em formação, atualmente no 12º ano em Gestã
 
 ### 👀 Interesses
 - Desenvolvimento web e backend
-- Criptomoedas e projetos inovadores
+- Atualmente a produzir uma App para Criptomoedas
 - Aprender novas tecnologias que possam melhorar a experiência do utilizador
 
 ### 🌱 A aprender
