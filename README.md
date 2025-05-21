@@ -11,7 +11,7 @@ Sou um estudante e desenvolvedor em formação, atualmente no 12º ano em Gestã
 Atualmente, estou a aprofundar os meus conhecimentos em:
 - Node.js e criação de APIs
 - Blockchain
-- Desenvolvimento de sistemas interativos com HTML, CSS e JavaScript, React.js
+- Desenvolvimento de sistemas interativos com HTML, CSS e JavaScript, React.js, Talwindcss
 
 ### 💞️ Colaboração
 Estou sempre aberto a colaborar em projetos relacionados a desenvolvimento web. Se tiver interesse em prestar os meus serviços, sinta-se à vontade para entrar em contacto!
