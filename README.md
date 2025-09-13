@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 - 🎓 Estudante de **Tecnologias Informáticas** no **Politécnico de Setúbal**  
-- 💻 Desenvolvedor júnior com foco em **desenvolvimento web, backend e blockchain**  
+- 💻 Desenvolvedor júnior com foco em **desenvolvimento de sites e aplicações**  
 - 📱 Já desenvolvi um projeto de **gestão de impostos em carteiras descentralizadas** (PAP)  
 - 🌍 Apaixonado por tecnologia e sempre em busca de novos desafios  
 
@@ -25,7 +25,7 @@
 ---
 
 ## 👀 Interesses
-- Desenvolvimento **Web** e **Backend**  
+- Desenvolvimento **Web** e **Aplicações**  
 - **Next.js + TypeScript** para aplicações modernas e escaláveis  
 - **Blockchain** e aplicações descentralizadas  
 - Arquiteturas escaláveis e boas práticas de programação  
@@ -34,7 +34,7 @@
 
 ## 🌱 Atualmente a aprender
 - **Next.js** com **TypeScript**  
-- **Node.js** avançado & APIs  
+- **Node.js** & APIs  
 - **React.js** com **TailwindCSS**  
 - Conceitos de **Blockchain & DeFi**  
 - Estruturação de projetos em larga escala  
@@ -43,7 +43,7 @@
 
 ## 🤝 Colaboração
 Aberto a colaborar em projetos de:  
-- Desenvolvimento **Web** (Next.js + TypeScript)  
+- Desenvolvimento: **Websites** ou **Aplicações**
 - Criptomoedas & Blockchain  
 - Ferramentas para melhorar a experiência do utilizador  
 
