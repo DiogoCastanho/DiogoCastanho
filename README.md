@@ -9,7 +9,7 @@
 - 🎓 Estudante de **Tecnologias Informáticas** no **Politécnico de Setúbal**  
 - 💼 **Developer na Deloitte** através do programa **BrightStart**  
 - 💻 Experiência em desenvolvimento de sites e aplicações web modernas  
-- 📱 Desenvolvi um projeto de **gestão de impostos em carteiras descentralizadas** (PAP)  
+- 📱 Desenvolvi um projeto de **Gestão de Impostos em Carteiras Descentralizadas** (PAP)  
 - 🌍 Apaixonado por tecnologia e sempre em busca de novos desafios  
 
 ---
@@ -28,9 +28,8 @@
 ---
 
 ## 👀 Interesses
-- Desenvolvimento **Web** e **Aplicações Empresariais**  
+- Desenvolvimento **Web** e **Aplicações**  
 - **Next.js + TypeScript** para aplicações modernas e escaláveis  
-- **SAP** e sistemas de gestão empresarial  
 - **Blockchain** e aplicações descentralizadas  
 - Arquiteturas escaláveis e boas práticas de programação  
 
@@ -55,9 +54,3 @@ Aberto a colaborar em projetos de:
 
 ## ⚡ Curiosidade
 Além de programar, pratico **Kempo** e **Calistenia**, desafiando-me constantemente a evoluir — tanto fisicamente como mentalmente.  
-
----
-
-## 📊 GitHub Stats
-![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoCastanho&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoCastanho&layout=compact&theme=radical)
