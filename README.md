@@ -5,7 +5,7 @@
 
 ## 🚀 Sobre mim
 - 🎓 Estudante de **Tecnologias Informáticas** no **Politécnico de Setúbal**  
-- 💼 **Developer na Deloitte** através do programa **BrightStart**  
+- 💼 **Desenvolvedor na Deloitte** através do programa **BrightStart**  
 - 💻 Experiência em desenvolvimento de sites e aplicações web modernas  
 - 📱 Desenvolvi um projeto de **Gestão de Impostos em Carteiras Descentralizadas** (PAP)  
 - 🌍 Apaixonado por tecnologia e sempre em busca de novos desafios  
@@ -26,9 +26,7 @@
 ---
 
 ## 👀 Interesses
-- Desenvolvimento **Web** e **Aplicações**  
-- **Next.js + TypeScript** para aplicações modernas e escaláveis  
-- **Blockchain** e aplicações descentralizadas  
+- Desenvolvimento **Web** e **Aplicações**   
 - Arquiteturas escaláveis e boas práticas de programação  
 
 ---
@@ -38,7 +36,8 @@
 - **ABAP** para desenvolvimento em **SAP**  
 - **Next.js** com **TypeScript**  
 - **Node.js** & APIs REST  
-- **React.js** com **TailwindCSS**  
+- **React**
+- **TypeScript** 
 
 ---
 
