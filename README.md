@@ -14,14 +14,23 @@
 ---
 
 ## 🛠️ Technical Skills & Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
+![Guidewire](https://img.shields.io/badge/Guidewire-2E2E2E?style=for-the-badge&logoColor=white)
+![Data%20Warehouse](https://img.shields.io/badge/Data%20Warehouse-0F172A?style=for-the-badge&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=000)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=fff)
 ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=000)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+
+---
+
+## 💼 What I'm Working With Right Now
+- **Guidewire + Data Warehouse** (project: **Insurcloud** — Canadian project)
+- **TypeScript + Next.js** (personal project: **Videomaker Portfolio**)
 
 ---
 
