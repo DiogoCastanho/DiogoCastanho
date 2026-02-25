@@ -41,12 +41,8 @@
 ---
 
 ## 🌱 Current Learning Journey
-- Advanced **Java** for enterprise systems
-- **ABAP** development within **SAP** systems
-- Building projects with **Next.js** and **TypeScript**
-- Backend development with **Node.js** & RESTful APIs
-- Frontend frameworks like **React**
-- Mastering **TypeScript**
+- Guidewire and Data Warehouse
+- ETL concepts in Guidewire
 
 ---
 
@@ -54,7 +50,6 @@
 I am open to collaborating on:
 - **Web development** (both Front-end and Back-end)
 - **Enterprise applications** and management systems
-- Innovative **open-source** projects
 
 ---
 
