@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Diogo Castanho
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/diogo-castanho-648a0a373)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/diogo-castanho-648a0a373)
 
 ---
 
